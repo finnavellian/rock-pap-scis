@@ -17,6 +17,14 @@
     margin: 45px 0 0 -25px;  
 }
 
+.page-select {
+    display: flex;
+    flex-flow: column-reverse wrap;
+    justify-content: center;
+    align-items: center;
+    margin-top: 90px;
+}
+
 .footer {
     color:hsl(60, 70%, 42%);
     background-color: rgb(164, 232, 232);
